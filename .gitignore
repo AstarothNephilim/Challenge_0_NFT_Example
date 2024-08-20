@@ -14,3 +14,7 @@ docs/
 .env
 
 node_modules
+
+images_claude/        
+package-lock.json
+package.json
